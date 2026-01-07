@@ -1,4 +1,4 @@
-A minimal **Win32 API C application template** for building native Windows desktop applications without frameworks, runtimes, or abstractions.
+# Windows App Template Minimal **Win32 API C application template** for building native Windows desktop applications without frameworks, runtimes, or abstractions.
 
 This project serves as a starting point for low-level Windows development using the raw Windows API (`windows.h`), making it ideal for learning, prototyping, or building lightweight native tools.
 
